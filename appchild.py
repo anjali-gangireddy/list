@@ -1,0 +1,2 @@
+#appchild
+print("hello")
